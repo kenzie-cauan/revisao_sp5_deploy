@@ -1,0 +1,2 @@
+npm i express dotenv-cli express-async-errors cors helmet zod bcryptjs jsonwebtoken
+npm i -D prisma @types/express @types/helmet @types/cors @types/node @types/bcryptjs @types/jsonwebtoken ts-node ts-node-dev typescript

@@ -1,0 +1,9 @@
+Status code tabela:
+400 -> bad request -> má requisição.
+401 -> unauthorized -> não autorizado.
+403 -> forbidden -> proibido.
+
+
+Prisma @map:
+@map("") -> renomear a coluna no banco de dados
+@@map("") -> renomear a tabela no banco de dados
